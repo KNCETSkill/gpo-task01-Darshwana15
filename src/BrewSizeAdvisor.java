@@ -16,11 +16,9 @@ public class BrewSizeAdvisor {
         {
             System.out.println("Medium");
         }
-        
         else {
             System.out.println ("Large");
         }
-
         sc.close();
     }
 }
